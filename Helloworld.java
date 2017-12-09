@@ -1,7 +1,7 @@
 public class Helloworld
 {
-	Public static void main(string[] arg)
+	public static void main(String[] arg)
 	{
-		System.Out.println("Hello World");
+		System.out.println("Hello World");
 	}
 }		
